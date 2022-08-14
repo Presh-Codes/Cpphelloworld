@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout<<"hello world!";
+    std::cout<<"2 plus 2 is 4";
     
     return 0;
 }
